@@ -64,7 +64,7 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
     Great tools that I definitely need to give a tool.
 
-    Twitter: @arrrene, creator of inchCI
+    Twitter: @rrrene, creator of inchCI
 
     * YARD -> javadocs format
     * TomDoc -> benefit of javadoc + adding visibility marker

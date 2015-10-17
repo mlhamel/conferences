@@ -55,10 +55,74 @@ Great talk about games, second part was about using websockets for gaming develo
 
 6. Hanneli Tavante. Humanising Math and Physics on Computer Science
 
+Need to unify Physics and maths and our industry. it has been done but we need to work
+more in this direction.
 
+* Kepler wrote SF books !
 
 7. René Föhring. One Inch at a Time - How to get people excited about inline docs
 
+Great tools that I definitely need to give a tool.
+
+Twitter: @arrrene, creator of inchCI
+
+* YARD -> javadocs format
+* TomDoc -> benefit of javadoc + adding visibility marker
+* "people are not Ruby parsers" v.s. "good code is its own documentation"
+* Example of tools about code: rubocop, but there's nothing great like that for documentation
+* The ideal tool would (inch)
+** define priority of what should be documented [PRIORITY]
+** would create a point system for every point and give a score (0..100) [SCORE]
+** great text interface with colors, great presentation and bar chart
+
 8. Lighting Talks
+
+a) Ruby Habits (Featuring bears)
+
+Presentation about a user group which is meeting every X times. If you have something broken
+just show up and show it to someone and they will try to help you.
+
+b) Elixir
+
+Error tracking is hard
+
+* shared mutable data
+* no built-in crash recovery mechanism
+* GC is hard
+* threading is hard
+* preempting is hard
+* monitoring is hard
+
+c) Json api schema tools
+
+github.com/POSpulse/jast
+
+d) The dark side of Matz
+
+**Great small funny talk**
+
+"DST - The biggest work program since the invention of time itself"
+
+Matz commit message: "...I hate DST!"
+
+"I hate autoload..."
+
+~"Level of hate of Matz is 0.00001 of Linus one..."
+
+e) @matz_translated - Automatic translation of the tweets of matz
+
+f) Bundler
+
+`ruby together` none profit in the USA !
+
+"improve your ruby tools"
+
+* @indirect @dwradcliffe are part of team that are paid to work on Bundler and Ruby Gem.
+* Work is also done on the infrastructure
+* Plan:
+** maintain rubygem
+** apply security gems
+** ...
+* rubytogether.org/join
 
 ### Sunday

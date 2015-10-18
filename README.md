@@ -200,6 +200,14 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 8. EuRuKo 2016 Voting (prepare your slides folks!)
 
+    Next year: Sofia
+
+9. Lighting Talks
+
+    b) cargo, import stuff in ruby, ala python
+
+    d) Code review: Be nice :)
+
 ## Notes:
 
     Interesting projects to look at:

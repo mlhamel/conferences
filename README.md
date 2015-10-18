@@ -170,10 +170,38 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 4. Tworit Kumar Dash. RFID Technology with Internet of Things
 
+    Tworit kuwar Dash (@tworitdash)
+
 5. Amy Wibowo. Fold, paper, scissors—an exploration of origiami's cut and fold problem
+
+    Twitter: @sailorhg
+
+    It is possible to create any polygon or form with folding and only 1 cut
+
+    Interesting topics:
+
+        * simple/straight skeleton
+        * bubblesort zines
+        * shoes graphical library
+
+    Sometime the skeleton is now enought, you need to make it flat foldable
+    by marking flat foldable lines.
 
 6. Simon Eskildsen. Super-Reliable Software
 
+    Amazing talk, stuff look at:
+
+        * toxyproxy
+        * simian
+
 7. Christopher Rigor. Cryptography for Rails Developers
 
+    Great talk, update your version of rails and ruby ! forget sslv3
+
 8. EuRuKo 2016 Voting (prepare your slides folks!)
+
+## Notes:
+
+    Interesting projects to look at:
+
+        * Gamification of program: check.io

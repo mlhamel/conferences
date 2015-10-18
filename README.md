@@ -157,6 +157,17 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 3. Michał Taszycki. Learn to program Commodore 64 this year!
 
+    Commodore 64: The best selling computer of all times
+
+    Interesting links:
+
+        * C64 a visual commpendium [http://www.bitmapbooks.co.uk/]
+        * vvvvvv: a game in flash that look like a C64 game but was not,
+          now somebody ported it to C64
+        * New release of the C64 [http://www.myretrocomputer.com/home.html]
+        * 64bites community [http://64bites.com/]
+        * C64 emulator [http://vice-emu.sourceforge.net/]
+
 4. Tworit Kumar Dash. RFID Technology with Internet of Things
 
 5. Amy Wibowo. Fold, paper, scissors—an exploration of origiami's cut and fold problem

@@ -126,3 +126,43 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
         * rubytogether.org/join
 
 ### Sunday
+
+1. Koichi Sasada. Lightweight Method Dispatch on MRI
+
+2. Richard Huang. Refactor ruby code based on AST
+
+    Online tools to automate code review:
+
+        * CodeClimate
+        * PullReview
+
+    Are based on the following packages:
+
+        * flay: Flay analyzes code for structural similarities. [http://ruby.sadi.st/Flay.html]
+        * brakeman: security scanner. [http://brakemanscanner.org/]
+        * rails_best_practices. [http://rails-bestpractices.com/]
+
+    Parsers:
+
+        * ParseTree
+        * ruby_parser
+        * ripper: Ruby built-in parser
+        * parser: New parser
+
+    Interesting stuff:
+
+        * transpec: Rewrite stuff from the old rspec syntax to the new one
+        * rubocop: A Ruby static code analyzer, based on the community Ruby style guide
+        * synvert: synvert is used to convert ruby code to better syntax
+
+3. Michał Taszycki. Learn to program Commodore 64 this year!
+
+4. Tworit Kumar Dash. RFID Technology with Internet of Things
+
+5. Amy Wibowo. Fold, paper, scissors—an exploration of origiami's cut and fold problem
+
+6. Simon Eskildsen. Super-Reliable Software
+
+7. Christopher Rigor. Cryptography for Rails Developers
+
+8. EuRuKo 2016 Voting (prepare your slides folks!)

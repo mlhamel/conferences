@@ -1,6 +1,10 @@
 # Euruko 2015
 
-Euruko 2015 was in Salzburg Austria from October 17th to 18th.
+Euruko 2015 was in Salzburg Austria from October 17th to 18th. It is an amazing 1 track
+conference helds in Europe every year.
+
+Last year was supposed to be held in Kiev, in Ukraine, but it was finally cancelled because
+of the political situation.
 
 ## Talks
 
@@ -8,26 +12,32 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 1. Yukihiro Matsumoto. Keynote
 
-    Talk about concurrency and the japanese language. Funny talk that is introducing what could become
-    Ruby in the future Matz took the opportunity to explain why we are there and why we are going to
-    fix it.
+    Talked about concurrency and the japanese language at the same time. The talk was really funny
+    and it was great to different aspect of what could become Ruby in the future. Also, Matz took the
+    opportunity to explain why Ruby is like it is, why there is a GIL and `no real` concurrency there
+    and how/why we are going to fix it.
 
-    * streem: a new toy language to play with streams and concurency - https://github.com/matz/streem
-    * funny japanese lecon, numbers are sooooo complicated !
-    * Future release migration will be less painful
-    * for now, they are still playing with the different models, roadmap and models to come...
-    * Not MRI but CRuby cause Ruby 1.9 switched from Matz implementation to a real VM called YARV
+    a Couple of interesting points from his talk:
+
+        * streem: a new toy language to play with streams and concurency - https://github.com/matz/streem
+        * Things about japanese: writing and prononcing long numbers seems sooooo complicated !
+        * Migration from 1.8 to 1.9 was painfull, future release migration will be easier
+        * Still no road has been chosen, for now, they are still playing with the different models,
+          roadmap and models to come... But we can feel that matz is interested by stream programming
+        * It seems that we should not ruby MRI but CRuby cause at Ruby 1.9 we've switched from Matz implementation
+          to a real VM called YARV
 
 2. Joseph Wilk. Programming as a performance
 
+    An amazing talk about music and code. With a full demonstration what could we do we sonic-pi and ruby.
+
     twitter: @listrophy
 
-    Where music, video and ruby are merging for the show !
+    Things to note:
 
-    * sonic-pi: a amazing editor for sound and visual - http://sonic-pi.ne
-    * example sonic-pi - http://sonic-pi.net/#examples
-    * CyberneticOrchestra - https://soundcloud.com/cyberneticorchestra
-    * Amazing live coding demo
+        * sonic-pi: a amazing editor for sound and visual - http://sonic-pi.ne
+        * example sonic-pi - http://sonic-pi.net/#examples
+        * CyberneticOrchestra - https://soundcloud.com/cyberneticorchestra
 
 3. Bradley Grzesiak. Simplify Challenging Software Problems with Rocket Science
 
@@ -35,8 +45,10 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
     Amazing way of integrating ruby with rocket launching game
 
-    * n-body problem about gravity
-    * PIDC - Proportial Integral Derivative Controller
+        * Kerbal space program is having an api !!! [http://store.steampowered.com/app/220200/]
+        * Shown us how to use Ruby with the PIDC pattern
+        * n-body problem about gravity
+        * PIDC - Proportial Integral Derivative Controller
 
 4. Satoshi Tagomori. Data Analytics Service Company and Its Ruby Usage
 
@@ -45,13 +57,13 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 5. Lydia Krupp-Hunter. Ruby Game Building Throwdown
 
-    * Game development librairies in ruby
-
     Great talk about games, second part was about using websockets for gaming development
 
-    * gosu - general game library
-    * hosu - general game library
-    * chipmunk - physic engine
+    Great libraries to discover:
+
+        * gosu - general game library
+        * hosu - general game library
+        * chipmunk - physic engine
 
 6. Hanneli Tavante. Humanising Math and Physics on Computer Science
 
@@ -62,18 +74,21 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 7. René Föhring. One Inch at a Time - How to get people excited about inline docs
 
-    Great tools that I definitely need to give a tool.
+    Great talk exposing a great tools (inchci) helping developers and projects to
+    document their projects, and more importanly how, where and when.
 
     Twitter: @rrrene, creator of inchCI
 
-    * YARD -> javadocs format
-    * TomDoc -> benefit of javadoc + adding visibility marker
-    * "people are not Ruby parsers" v.s. "good code is its own documentation"
-    * Example of tools about code: rubocop, but there's nothing great like that for documentation
-    * The ideal tool would (inch)
-    ** define priority of what should be documented [PRIORITY]
-    ** would create a point system for every point and give a score (0..100) [SCORE]
-    ** great text interface with colors, great presentation and bar chart
+    Some interesting points:
+
+        * YARD -> javadocs format
+        * TomDoc -> benefit of javadoc + adding visibility marker
+        * "people are not Ruby parsers" v.s. "good code is its own documentation"
+        * Example of tools about code: rubocop, but there's nothing great like that for documentation
+        * The ideal tool would (inch)
+        ** define priority of what should be documented [PRIORITY]
+        ** would create a point system for every point and give a score (0..100) [SCORE]
+        ** great text interface with colors, great presentation and bar chart
 
 8. Lighting Talks
 
@@ -174,6 +189,8 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
 
 5. Amy Wibowo. Fold, paper, scissors—an exploration of origiami's cut and fold problem
 
+    Just wow
+
     Twitter: @sailorhg
 
     It is possible to create any polygon or form with folding and only 1 cut
@@ -184,12 +201,18 @@ Euruko 2015 was in Salzburg Austria from October 17th to 18th.
         * bubblesort zines
         * shoes graphical library
 
-    Sometime the skeleton is now enought, you need to make it flat foldable
+    Sometime the simple skeleton is now enought, you need to make it flat foldable
     by marking flat foldable lines.
 
 6. Simon Eskildsen. Super-Reliable Software
 
-    Amazing talk, stuff look at:
+    Amazing talk. Explaned why we are failing, why memory is failing expecially when
+    reaching larger scale (but shit will happen also at smaller scale).
+
+    The idea is that we should decouple components and systems, and more importanly
+    learn how to fail gracefuly :)
+
+    stuff look at:
 
         * toxyproxy
         * simian

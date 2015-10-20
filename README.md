@@ -126,6 +126,12 @@ of the political situation.
 
     e) @matz_translated - Automatic translation of the tweets of matz
 
+        This guy made an amazing job but is searching for a new maintainer !
+
+        One funny, think, matz is mostly tweeting in japanese but sometime in english.
+        And sometimes, those english tweets are wrongly translated, like the one about
+        ruby 3 which translated by ruby 2 !
+
     f) Bundler
 
         `ruby together` none profit in the USA !

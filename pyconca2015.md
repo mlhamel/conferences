@@ -29,6 +29,12 @@ https://2015.pycon.ca/en/
 8. Nicolas Kruchten, Make Jupyter/IPython Notebook even more magical with cell
    magic extensions!
 
+    Made me think that I should play with [iruby](http://nbviewer.ipython.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+
+    Links to the notebook
+
+    * https://github.com/nicolaskruchten/pyconca/blob/master/jupyter_magic.ipynb
+
 9. Mehrdad Pazooki, Fraud detection in real-time with Spark
 
 10. Karen Rubin, Afternoon Keynote & Closing Messages

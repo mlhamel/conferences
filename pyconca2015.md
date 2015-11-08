@@ -8,6 +8,8 @@ https://2015.pycon.ca/en/
 
 1. Brett Cannon, Welcome & Morning Keynote
 
+    Great talk about the different implementations of Python. Need to look at unified benchmark suite.
+
 2. Frédéric Harper, Is your Python application secure?
 
 3. Stephane Wirtel, Exploring our Python interpreter

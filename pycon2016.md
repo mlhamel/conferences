@@ -42,3 +42,15 @@ https://us.pycon.org/2016/schedule/presentation/1858/)
 Interesting to check:
 
     * wall mode !
+
+
+#### The Cobbler's children have no shoes, or building better tools for ourselves
+
+by (Alex Gaynor)
+
+https://us.pycon.org/2016/schedule/presentation/2078/
+
+Interesting to check:
+
+    * https://github.com/facebook/mention-bot
+    * compare ui changes with screenshots

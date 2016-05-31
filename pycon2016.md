@@ -35,7 +35,7 @@ https://us.pycon.org/2016/schedule/presentation/2248/
 
 #### Sqlite: Gotchas and Gimmes
 
-(by Dave Sawyer
+(by Dave Sawyer)
 
 https://us.pycon.org/2016/schedule/presentation/1858/)
 
@@ -46,7 +46,7 @@ Interesting to check:
 
 #### The Cobbler's children have no shoes, or building better tools for ourselves
 
-by (Alex Gaynor)
+(by Alex Gaynor)
 
 https://us.pycon.org/2016/schedule/presentation/2078/
 
@@ -54,3 +54,16 @@ Interesting to check:
 
     * https://github.com/facebook/mention-bot
     * compare ui changes with screenshots
+
+
+#### A beginner's guide to deep learning
+
+(by Irene Chen)
+
+https://us.pycon.org/2016/schedule/presentation/2112/
+
+Interesting to check:
+
+    * Caffee: http://caffe.berkeleyvision.org/installation.html
+    * Theano: http://deeplearning.net/software/theano/
+    * Imagenet: http://image-net.org/

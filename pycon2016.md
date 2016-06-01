@@ -180,6 +180,13 @@ https://us.pycon.org/2016/schedule/presentation/1633/
 
 https://us.pycon.org/2016/schedule/presentation/1917/
 
+#### Removing Python's GIL: The Gilectomy
+
+(by Larry Hastings)
+
+https://us.pycon.org/2016/schedule/presentation/2101/
+
+https://github.com/larryhastings/gilectomy
 
 ### Videos to watch
 

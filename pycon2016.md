@@ -39,6 +39,10 @@ https://us.pycon.org/2016/schedule/presentation/2248/
 
 https://us.pycon.org/2016/schedule/presentation/1858/)
 
+Video:
+
+    https://www.youtube.com/watch?v=D7wSMnapDp4
+
 Interesting to check:
 
     * wall mode !
@@ -88,6 +92,10 @@ Interesting to check:
 
 https://us.pycon.org/2016/schedule/presentation/2152/
 
+Video
+
+    https://www.youtube.com/watch?v=dacOIIqKFfs
+
 Slides:
 
     https://github.com/callahad/pycon-newweb
@@ -117,9 +125,40 @@ Interesting to check:
 
 https://us.pycon.org/2016/schedule/presentation/2122/
 
+Video
+
+    https://www.youtube.com/watch?v=5BqAeN-F9Qs
+
 Interesting to check:
 
     * https://pythonhosted.org/py2app/
     * http://pybee.org/
     ** http://pybee.org/toga/
     * http://www.mcedit.net/
+
+#### From Developer to Manager
+
+(by Sean O'Connor)
+
+Video
+
+    https://www.youtube.com/watch?v=lzBm0r8CxhY
+
+Interesting to check:
+
+    * http://seanoc.com/talks/dev-to-manager
+
+
+#### Lighting Talks
+
+Interesting to check:
+
+    * https://micropython.org/doc/tut-leds
+
+
+### Videos to watch
+
+    * https://www.youtube.com/watch?v=MC00XWdl-ms
+    * https://www.youtube.com/watch?time_continue=89&v=7cC3_jGwl_U
+    * https://www.youtube.com/watch?v=EpCHD9AIHAM
+    * https://www.youtube.com/watch?v=404-wV3FK_k

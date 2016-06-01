@@ -154,6 +154,31 @@ Interesting to check:
 Interesting to check:
 
     * https://micropython.org/doc/tut-leds
+    * http://pycaribbean.com/
+
+Ideas
+
+    * Interview question, imagine someone is doing `chmod -x chmod`, what can you do?
+
+
+### Wednesday, June 1st
+
+#### Poster sessions
+
+    * PyMom: https://twitter.com/sheilatronica/status/738065927988596737
+
+#### See Python, See Python Go, Go Python Go
+
+(by Andrey Petrov)
+
+https://us.pycon.org/2016/schedule/presentation/1633/
+
+
+#### Accelerating healthcare transactions with Python and PyPy
+
+(by Brian Corbin)
+
+https://us.pycon.org/2016/schedule/presentation/1917/
 
 
 ### Videos to watch
@@ -162,3 +187,4 @@ Interesting to check:
     * https://www.youtube.com/watch?time_continue=89&v=7cC3_jGwl_U
     * https://www.youtube.com/watch?v=EpCHD9AIHAM
     * https://www.youtube.com/watch?v=404-wV3FK_k
+    * https://www.youtube.com/watch?v=-7I7MWTX0gA

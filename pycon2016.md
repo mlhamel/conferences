@@ -169,6 +169,7 @@ Ideas
 
 #### See Python, See Python Go, Go Python Go
 
+
 (by Andrey Petrov)
 
 https://us.pycon.org/2016/schedule/presentation/1633/
@@ -180,6 +181,7 @@ https://us.pycon.org/2016/schedule/presentation/1633/
 
 https://us.pycon.org/2016/schedule/presentation/1917/
 
+
 #### Removing Python's GIL: The Gilectomy
 
 (by Larry Hastings)
@@ -187,6 +189,23 @@ https://us.pycon.org/2016/schedule/presentation/1917/
 https://us.pycon.org/2016/schedule/presentation/2101/
 
 https://github.com/larryhastings/gilectomy
+
+https://www.youtube.com/watch?v=P3AyI_u66Bw
+
+
+#### Final Keynote
+
+(by K Lars Lohn)
+
+https://twitter.com/2braids
+
+Interesting to check:
+
+    * book: godel escher bach https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567?ie=UTF8&*Version*=1&*entries*=0
+    * lake missoula https://en.wikipedia.org/wiki/Lake_Missoula
+    * box size covering algorithms to calculate fratal dimension of a line
+    * http://www.twobraids.com/
+
 
 ### Videos to watch
 

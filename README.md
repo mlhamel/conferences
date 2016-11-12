@@ -10,3 +10,4 @@ Notes about conferences I'm attending
 ## 2016
 
 * [PyCon 2016](pycon2016.md) in Portland (Oregon)
+* [Rubyconf 2016](rubyconf2016.md) in Cincinatti (Ohio)

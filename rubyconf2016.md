@@ -104,3 +104,4 @@ Interesting to check:
 
     * https://github.com/justcolin/lambda_chess
     * https://www.youtube.com/channel/UCA6e5L-LSh585AlzmO8WBVg
+    * http://www.ioccc.org/years.html#2015
